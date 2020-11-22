@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+<settings>
+  <parameter name="IP_FOR_MESSAGE_MONITORE" value="192.168.1.104" />
+  <parameter name="PORT_FOR_MESSAGE_MONITORE" value="65140" />
+
+  <parameter name="COMMUNICATOR_NAME" value="Fm4Communicator" />
+  <parameter name="COMMUNICATOR_LICENSE" value="bd0f3f975325fb441eb844d409d42773" />
+  <parameter name="PORT_FOR_CLIENTS" value="6010" />
+  <parameter name="TELTONICA_HOST_IP" value="192.168.1.104" />
+ 
+  <parameter name="DB_NAME" value="_BullsCommunicator" />
+  <parameter name="DB_RECIPIENT" value="Fm4Recipient" />
+  <parameter name="DB_MESTYPE" value="fm4_data" />
+  <parameter name="SAMER_TIME" value="0" />
+  
+  <parameter name="C11" value="0,04268508" />
+  <parameter name="C12" value="2468117,5" />
+  <parameter name="C21" value="0,064716" />
+  <parameter name="C22" value="5403830,8" />
+  
+  <parameter name="CONNECTION_STRING" value="Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.1.249)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SID=pitecgok)));User Id=dispatcher;Password=disp;" />
+ 
+  <parameter name="DB_RECONNECT_INTERVAL"  value="3000"/>
+
+  <parameter name="LOG_PATH" value="\log" />
+  <parameter name="LOG_LEVEL" value="5" />
+</settings>
