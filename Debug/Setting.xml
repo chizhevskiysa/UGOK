@@ -2,7 +2,7 @@
 <settings>
   <Database_MySQL
     
-      ip_Server="192.168.10.249"
+      ip_Server="192.168.11.249"
       port="3306"
       userName="askt_user"
       password="Askz@12345"
