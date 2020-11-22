@@ -1,28 +1,30 @@
-<?xml version="1.0" encoding="utf-8" ?> 
-
+<?xml version="1.0" encoding="utf-8" ?>
 <settings>
-  <parameter name="IP_FOR_MESSAGE_MONITORE" value="192.168.1.104" />
-  <parameter name="PORT_FOR_MESSAGE_MONITORE" value="65140" />
+  <Database_MySQL
+    
+      ip_Server="192.168.10.249"
+      port="3306"
+      userName="askt_user"
+      password="Askz@12345"
+      dB_name="asct_tr_db"
+      table1_FuelTankersData_name="fuel_tankesdata"
+      
+     
+      db_reconnect_interval="00:00:30"
+      db_read_interval="5000"
+      db_write_interval="1000"
+      
+       
+      db_message_max_send="15"
+      db_messages_per_transmition="15"
 
-  <parameter name="COMMUNICATOR_NAME" value="Fm4Communicator" />
-  <parameter name="COMMUNICATOR_LICENSE" value="bd0f3f975325fb441eb844d409d42773" />
-  <parameter name="PORT_FOR_CLIENTS" value="6010" />
-  <parameter name="TELTONICA_HOST_IP" value="192.168.1.104" />
- 
-  <parameter name="DB_NAME" value="_BullsCommunicator" />
-  <parameter name="DB_RECIPIENT" value="Fm4Recipient" />
-  <parameter name="DB_MESTYPE" value="fm4_data" />
-  <parameter name="SAMER_TIME" value="0" />
-  
-  <parameter name="C11" value="0,04268508" />
-  <parameter name="C12" value="2468117,5" />
-  <parameter name="C21" value="0,064716" />
-  <parameter name="C22" value="5403830,8" />
-  
-  <parameter name="CONNECTION_STRING" value="Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.1.249)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SID=pitecgok)));User Id=dispatcher;Password=disp;" />
- 
-  <parameter name="DB_RECONNECT_INTERVAL"  value="3000"/>
+      
+      bUseOracleClient="true"
+      db_write_retryCount="3"
+     
+      db_sql_for_write_FuelTankersData="INSERT INTO {0}.{1}(ID, Created, Tanker_Id,Fuel_V1,Fuel_V2,Fuel_T,Fuel_OutSum) VALUES({2},'{3}',{4},{5},{6},{7},{8})"
 
-  <parameter name="LOG_PATH" value="\log" />
-  <parameter name="LOG_LEVEL" value="5" />
+     
+  />
+
 </settings>
