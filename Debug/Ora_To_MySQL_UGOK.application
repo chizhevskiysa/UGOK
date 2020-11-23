@@ -3,15 +3,18 @@
   <assemblyIdentity name="Ora_To_MySQL_UGOK.application" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="Ora_To_MySQL_UGOK" asmv2:product="Ora_To_MySQL_UGOK" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Ora_To_MySQL_UGOK.exe.manifest" size="5325">
+    <dependentAssembly dependencyType="install" codebase="Ora_To_MySQL_UGOK.exe.manifest" size="4821">
       <assemblyIdentity name="Ora_To_MySQL_UGOK.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>q6mBLPIo2M/HbiGpccw1J7npptk=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>AdjWAz83AeuQ+Mvw3s9b8AIFfeM7RnzYRy4xE+WdnJQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
