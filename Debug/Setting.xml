@@ -10,9 +10,9 @@
 <settings>
   <Database_MySQL
      
-    connection_string="Server=U-FUEL\WINCC;Database=ASCT_DB;User Id=asd_gto;Password=AsctFTp$w1;" 
+    connection_string="Server=91,212,173,19,1433;Network Library=DBMSSOCN;Initial Catalog=ASCT_DB;User Id=asd_gto;Password=AsctFTp$w1;" 
 
-
+    check_sql= "SELECT * FROM FuelTankersData"
     db_reconnect_interval="00:00:30"
     db_read_interval="5000"
     db_write_interval="1000"
