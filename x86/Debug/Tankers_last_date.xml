@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Tankers_fuel_Obj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_Tankers>
+    <Tanker>
+      <_VEHID>311</_VEHID>
+      <_DATETIME>01.12.2020 14:03:01</_DATETIME>
+    </Tanker>
+    <Tanker>
+      <_VEHID>312</_VEHID>
+      <_DATETIME>01.12.2020 14:03:01</_DATETIME>
+    </Tanker>
+    <Tanker>
+      <_VEHID>313</_VEHID>
+      <_DATETIME>01.12.2020 14:03:01</_DATETIME>
+    </Tanker>
+  </_Tankers>
+</Tankers_fuel_Obj>
