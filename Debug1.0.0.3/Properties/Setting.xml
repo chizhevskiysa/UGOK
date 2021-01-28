@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+      ip_Server="192.168.10.249"
+      port="3306"
+      userName="askt_user"
+      password="Askz@12345"
+      dB_name="asct_tr_db"
+      table1_FuelTankersData_name="fuel_tankesdata"
+      -->
+<settings>
+  <Database_MSSQL
+    catalog="ASCT_DB"  
+    
+    check_sql= "SELECT COUNT(*) FROM FuelTankersData"
+    checked="true"
+    check_result_show="true"
+    check_return_Count_param="1"
+    
+    db_reconnect_interval="00:00:30"
+    db_read_interval="5000"
+    db_write_interval="1000"
+
+
+    db_message_max_send="15"
+    db_messages_per_transmition="15"
+
+
+    bUseOracleClient="true"
+    db_write_retryCount="3"
+    
+    fuelTankersData_Count_Param="10"
+    fuelTankersData_sql_test="INSERT INTO FuelTankersData( Created,Tanker_Id,Fuel_V1,Fuel_V2,Fuel_T,Fuel_OutSum) VALUES(@v1,@v2,@v3,@v4,@v5,@v6,@v7)"
+    fuelTankersData_sql="INSERT INTO FuelTankersData( Created,Tanker_Id,Fuel_V1,Fuel_V2,Fuel_T,Fuel_OutSum,Fuel_OutSum_err) VALUES(@v1,@v2,@v3,@v4,@v5,@v6,@v7)"
+    fuelTankersData_result_show="true"
+    
+
+    />
+  <Database_Ora
+  sid="pitecgok"
+  
+  checked="true"
+  check_result_show="true"
+  check_sql= "SELECT 'Connection ok' FROM dual"
+  check_return_Count_param="1"
+  
+ 
+  fuelTankersData_Count_Param="7"
+  fuelTankersData_sql_test="Select EventTime Created, '771' Tanker_Id, 0 Fuel_V1, 0 Fuel_V2, 0 Fuel_T, 0 Fuel_OutSum, 0 Fuel_OutSum_err, 0 Fuel_V1_err, 0 Fuel_V2_err, 0 Fuel_T_err  from eventarchive where rownum &lt; :param_CountRow and vehid ='Б014'and EventTime &gt; TO_DATE(:param_DATE, 'DD.MM.YYYY HH24:MI:SS') order by EventTime desc"
+  fuelTankersData_sql="Select EventTime Created,'771' Tanker_Id, 0 Fuel_V1, 0 Fuel_V2, 0 Fuel_T, 0 Fuel_OutSum, 0 Fuel_OutSum_err  from eventarchive where rownum &lt; :param_CountRow and vehid =:param_VEHID and EventTime &gt; TO_DATE(:param_DATE, 'DD.MM.YYYY HH24:MI:SS') order by EventTime desc"
+  fuelTankersData_RowCountRead="100"
+  fuelTankersData_result_show="true"
+  
+    />
+  <App_Setting
+    edit_mode="false"
+    test_mode="true"
+    SHOW_SQL_ORA="true"
+  />
+
+  </settings>
