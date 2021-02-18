@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <Database_MSSQL
+    catalog="ASCT_DB"  
+    check_sql= "SELECT COUNT(*) FROM FuelTankersData"
+    checked="true"
+    check_result_show="true"
+    check_return_Count_param="1"
+    db_reconnect_interval="00:00:30"
+    
+    fuelTankersData_Count_Param="10"
+    fuelTankersData_sql_test="INSERT INTO FuelTankersData( Created,Tanker_Id,Fuel_V1,Fuel_V2,Fuel_T,Fuel_OutSum) VALUES(@v1,@v2,@v3,@v4,@v5,@v6,@v7)"
+    fuelTankersData_sql="INSERT INTO FuelTankersData( Created,Tanker_Id,Fuel_V1,Fuel_V2,Fuel_T,Fuel_OutSum,Fuel_OutSum_err) VALUES(@v1,@v2,@v3,@v4,@v5,@v6,@v7)"
+    fuelTankers_last_DateTime_sql= "Select top 1 * from FuelTankersData Where Tanker_Id =@VEHID and Created >'2021-02-01 00:00:00' order by Created desc"
+    
+    fuelTankersData_result_show="true"
+    ShowError ="false"  
+  
+    />
+  <Database_Ora
+  sid="pitecgok"
+  
+  checked="true"
+  check_result_show="true"
+  check_sql= "SELECT 'Connection ok' FROM dual"
+  check_return_Count_param="1"
+  
+  db_message_max_read ="15"
+  
+  fuelTankersData_Count_Param="7"
+  fuelTankersData_sql_test="Select PROCESSING_TIME Created,VEHICLE_ID Tanker_id,FUEL3,FUEL4,0 FUEL_T, Decode(S15,null,0,S15) FUEL_OutSUM, 0 FUEL_OutSUM_Err from VIST_CORE_EVENTARCHIVE Where  VEHICLE_ID =:param_VEHID and PROCESSING_TIME &gt; to_date(:param_DATE,'DD.MM.YYYY HH24:MI:SS') and ROWNUM &lt; :param_MaxMess_Read order by PROCESSING_TIME DESC"
+  fuelTankersData_sql="Select PROCESSING_TIME Created,VEHICLE_ID Tanker_id,FUEL3,FUEL4,0 FUEL_T, Decode(S15,null,0,S15) FUEL_OutSUM, 0 FUEL_OutSUM_Err from VIST_CORE_EVENTARCHIVE Where  VEHICLE_ID =:param_VEHID and PROCESSING_TIME &gt; to_date(:param_DATE,'DD.MM.YYYY HH24:MI:SS') and ROWNUM &lt; :param_MaxMess_Read order by PROCESSING_TIME DESC"
+  fuelTankersData_RowCountRead="100"
+  fuelTankersData_result_show="true"
+  
+    />
+  <App_Setting
+    edit_mode="false"
+    test_mode="false"
+    SHOW_SQL_ORA="true"
+    DELAY_TIME_AFTER_INSERT="5000"
+    restart_time="30"
+  />
+
+  </settings>
