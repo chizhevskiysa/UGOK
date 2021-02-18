@@ -1,0 +1,9 @@
+﻿
+Select DATEADD(hour,2,Created) Tanker_102_IPAN from (Select top 1 * from FuelTankersData Where Tanker_Id =102 and Created >'2021-02-01 00:00:00' order by Created desc) S1
+Select Count(*) Tanker_N_102 from FuelTankersData Where Tanker_Id =102 and Created >'2021-02-01 00:00:00';
+
+Select DATEADD(hour,2,Created) Tanker_132_TELTONICA from (Select top 1 *  from FuelTankersData Where Tanker_Id =132 and Created >'2021-02-01 00:00:00' order by Created desc) S1
+Select Count(*) Tanker_N_132 from FuelTankersData Where Tanker_Id =132 and Created >'2021-02-01 00:00:00';
+
+Select DATEADD(hour,2,Created) Tanker_142_TELTONICA from (Select top 1 * from FuelTankersData Where Tanker_Id =142 and Created >'2021-02-01 00:00:00' order by Created desc) S1
+Select Count(*) Tanker_N_142  from FuelTankersData Where Tanker_Id =142 and Created >'2021-02-01 00:00:00';
