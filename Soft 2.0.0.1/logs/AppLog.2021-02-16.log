@@ -1,0 +1,15 @@
+16.02.2021 19:59:24 [MainApp]*********************************************
+16.02.2021 19:59:24 [MainApp]********   APPLICATION START   **************
+16.02.2021 19:59:24 [MainApp]*********************************************
+16.02.2021 19:59:24 [MainApp]Setting.xml load is OK!
+16.02.2021 19:59:24 [Error]Файл 'D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\bin\Debug\Properties\Vehisle_Setting.dat' не найден.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 55
+
+16.02.2021 19:59:24 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 61
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 16
+
+16.02.2021 19:59:51 [MainApp]*********************************************
+16.02.2021 19:59:51 [MainApp]********   APPLICATION START   **************
+16.02.2021 19:59:51 [MainApp]*********************************************
