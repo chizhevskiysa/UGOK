@@ -1,0 +1,271 @@
+18.02.2021 12:38:23 [MainApp]*********************************************
+18.02.2021 12:38:23 [MainApp]********   APPLICATION START   **************
+18.02.2021 12:38:23 [MainApp]*********************************************
+18.02.2021 13:03:54 [MainApp]*********************************************
+18.02.2021 13:03:54 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:03:54 [MainApp]*********************************************
+18.02.2021 13:13:57 [MainApp]*********************************************
+18.02.2021 13:13:57 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:13:57 [MainApp]*********************************************
+18.02.2021 13:16:58 [MainApp]*********************************************
+18.02.2021 13:16:58 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:16:58 [MainApp]*********************************************
+18.02.2021 13:28:52 [MainApp]*********************************************
+18.02.2021 13:28:52 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:28:52 [MainApp]*********************************************
+18.02.2021 13:28:52 [MainApp]Setting.xml load is OK!
+18.02.2021 13:28:52 [Error]Файл 'D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\bin\Debug\Properties\Vehisle_Setting.dat' не найден.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 55
+
+18.02.2021 13:28:53 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 61
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 13:29:27 [MainApp]*********************************************
+18.02.2021 13:29:27 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:29:27 [MainApp]*********************************************
+18.02.2021 13:29:37 [MainApp]Setting.xml load is OK!
+18.02.2021 13:29:41 [Error]Файл 'D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\bin\Debug\Properties\Vehisle_Setting.dat' не найден.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 55
+
+18.02.2021 13:29:41 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 61
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 13:30:42 [MainApp]*********************************************
+18.02.2021 13:30:43 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:30:43 [MainApp]*********************************************
+18.02.2021 13:31:06 [MainApp]*********************************************
+18.02.2021 13:31:06 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:31:06 [MainApp]*********************************************
+18.02.2021 13:34:20 [MainApp]*********************************************
+18.02.2021 13:34:20 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:34:20 [MainApp]*********************************************
+18.02.2021 13:34:20 [MainApp]Setting.xml load is OK!
+18.02.2021 13:34:21 [Error]Файл 'D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\bin\Debug\Properties\Vehisle_Setting.dat' не найден.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 55
+
+18.02.2021 13:34:21 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 61
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 13:35:16 [MainApp]*********************************************
+18.02.2021 13:35:16 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:35:16 [MainApp]*********************************************
+18.02.2021 13:35:17 [MainApp]App catch:Выдано исключение типа "System.OutOfMemoryException".
+   в Ora_To_MSSQL_UGOK.App_export.Init()
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 13:35:52 [MainApp]*********************************************
+18.02.2021 13:35:52 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:35:52 [MainApp]*********************************************
+18.02.2021 13:36:05 [MainApp]Setting.xml load is OK!
+18.02.2021 13:36:32 [Error]Файл 'D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\bin\Debug\Properties\Vehisle_Setting.dat' не найден.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 55
+
+18.02.2021 13:36:32 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 61
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 13:38:49 [MainApp]*********************************************
+18.02.2021 13:38:49 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:38:49 [MainApp]*********************************************
+18.02.2021 13:38:53 [MainApp]Setting.xml load is OK!
+18.02.2021 13:38:53 [Error]Не удалось загрузить тип Ora_To_MSSQL.SettingBin_Serializ, необходимый для десериализации.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 55
+
+18.02.2021 13:38:53 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 61
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 13:40:03 [MainApp]*********************************************
+18.02.2021 13:40:03 [MainApp]********   APPLICATION START   **************
+18.02.2021 13:40:03 [MainApp]*********************************************
+18.02.2021 13:40:08 [MainApp]Setting.xml load is OK!
+18.02.2021 14:05:54 [MainApp]*********************************************
+18.02.2021 14:05:54 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:05:54 [MainApp]*********************************************
+18.02.2021 14:05:54 [MainApp]Setting.xml load is OK!
+18.02.2021 14:05:54 [Error]Не удалось загрузить тип Ora_To_MSSQL.SettingBin_Serializ, необходимый для десериализации.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 55
+
+18.02.2021 14:05:54 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 61
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 14:06:32 [MainApp]*********************************************
+18.02.2021 14:06:32 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:06:32 [MainApp]*********************************************
+18.02.2021 14:06:32 [MainApp]Setting.xml load is OK!
+18.02.2021 14:06:32 [Error]Не удалось загрузить тип Ora_To_MSSQL.SettingBin_Serializ, необходимый для десериализации.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 55
+
+18.02.2021 14:06:32 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 61
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 14:06:43 [MainApp]*********************************************
+18.02.2021 14:06:43 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:06:43 [MainApp]*********************************************
+18.02.2021 14:06:43 [MainApp]Setting.xml load is OK!
+18.02.2021 14:06:43 [Error]Не удалось загрузить тип Ora_To_MSSQL.SettingBin_Serializ, необходимый для десериализации.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 55
+
+18.02.2021 14:06:43 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 61
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 14:06:50 [MainApp]*********************************************
+18.02.2021 14:06:50 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:06:50 [MainApp]*********************************************
+18.02.2021 14:06:50 [MainApp]Setting.xml load is OK!
+18.02.2021 14:06:50 [Error]Не удалось загрузить тип Ora_To_MSSQL.SettingBin_Serializ, необходимый для десериализации.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 55
+
+18.02.2021 14:06:50 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 61
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 14:07:30 [MainApp]*********************************************
+18.02.2021 14:07:30 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:07:30 [MainApp]*********************************************
+18.02.2021 14:07:30 [MainApp]Setting.xml load is OK!
+18.02.2021 14:07:30 [Error]Не удалось загрузить тип Ora_To_MSSQL.SettingBin_Serializ, необходимый для десериализации.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 56
+
+18.02.2021 14:07:30 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 62
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 14:07:50 [MainApp]*********************************************
+18.02.2021 14:07:50 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:07:50 [MainApp]*********************************************
+18.02.2021 14:07:50 [MainApp]Setting.xml load is OK!
+18.02.2021 14:07:50 [Error]Не удалось загрузить тип Ora_To_MSSQL.SettingBin_Serializ, необходимый для десериализации.
+   в Ora_To_MSSQL_UGOK.SettingBin_Serializ.Load() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\SettingBin_Serializ.cs:строка 103
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 56
+
+18.02.2021 14:07:50 [MainApp]App catch:Error Load parameter setting Vehisle_Setting.dat not correct or not detected
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 62
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 14:08:14 [MainApp]*********************************************
+18.02.2021 14:08:14 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:08:14 [MainApp]*********************************************
+18.02.2021 14:08:14 [MainApp]Setting.xml load is OK!
+18.02.2021 14:13:51 [MainApp]App catch:Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в Ora_To_MSSQL_UGOK.App_export.ADMIN_MENU() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 244
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 32
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 14:18:16 [MainApp]*********************************************
+18.02.2021 14:18:16 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:18:17 [MainApp]*********************************************
+18.02.2021 14:18:17 [MainApp]Setting.xml load is OK!
+18.02.2021 14:20:11 [MainApp]*********************************************
+18.02.2021 14:20:11 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:20:11 [MainApp]*********************************************
+18.02.2021 14:20:11 [MainApp]Setting.xml load is OK!
+18.02.2021 14:20:23 [MainApp]Init APP
+18.02.2021 14:20:23 [MainApp]- - - - - -
+18.02.2021 14:20:24 [MainApp]ORA_PARAM Load OK!
+18.02.2021 14:20:25 [MainApp]ORA Connection not successful
+18.02.2021 14:20:25 [Error]Network Transport: TCP transport address connect failure
+   в OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, CriteriaCtx criteriaCtx, String affinityInstanceName, Boolean bForceMatch)
+   в OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, CriteriaCtx criteriaCtx, String affinityInstanceName, Boolean bForceMatch)
+   в OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, CriteriaCtx criteriaCtx)
+   в Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   в Ora_To_MSSQL_UGOK.DB_Ora.connect_Open() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\DB_Ora.cs:строка 81
+
+18.02.2021 14:20:25 [MainApp]Error Connection:
+18.02.2021 14:20:25 [Error]Операция является недопустимой из-за текущего состояния объекта.
+   в Oracle.ManagedDataAccess.Client.OracleCommand.ValidateStatePriorToExecution()
+   в Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   в Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader()
+   в Ora_To_MSSQL_UGOK.DB_Ora.check_connection() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\DB_Ora.cs:строка 43
+
+18.02.2021 14:20:25 [MainApp]App catch:Ссылка на объект не указывает на экземпляр объекта.
+   в Ora_To_MSSQL_UGOK.DB_Ora.check_connection() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\DB_Ora.cs:строка 72
+   в Ora_To_MSSQL_UGOK.DB_Ora..ctor(SettingXML setting, DB_Setting dB_Connection_setting) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\DB_Ora.cs:строка 32
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 70
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 14:23:04 [MainApp]*********************************************
+18.02.2021 14:23:04 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:23:05 [MainApp]*********************************************
+18.02.2021 14:23:05 [MainApp]Setting.xml load is OK!
+18.02.2021 14:23:25 [MainApp]Init APP
+18.02.2021 14:23:25 [MainApp]- - - - - -
+18.02.2021 14:23:25 [MainApp]ORA_PARAM Load OK!
+18.02.2021 14:23:26 [MainApp]ORA Connection not successful
+18.02.2021 14:23:26 [Error]Network Transport: TCP transport address connect failure
+   в OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, CriteriaCtx criteriaCtx, String affinityInstanceName, Boolean bForceMatch)
+   в OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, CriteriaCtx criteriaCtx, String affinityInstanceName, Boolean bForceMatch)
+   в OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, CriteriaCtx criteriaCtx)
+   в Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   в Ora_To_MSSQL_UGOK.DB_Ora.connect_Open() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\DB_Ora.cs:строка 81
+
+18.02.2021 14:23:27 [MainApp]Error Connection:
+18.02.2021 14:23:27 [Error]Операция является недопустимой из-за текущего состояния объекта.
+   в Oracle.ManagedDataAccess.Client.OracleCommand.ValidateStatePriorToExecution()
+   в Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   в Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader()
+   в Ora_To_MSSQL_UGOK.DB_Ora.check_connection() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\DB_Ora.cs:строка 43
+
+18.02.2021 14:23:27 [MainApp]App catch:Ссылка на объект не указывает на экземпляр объекта.
+   в Ora_To_MSSQL_UGOK.DB_Ora.check_connection() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\DB_Ora.cs:строка 72
+   в Ora_To_MSSQL_UGOK.DB_Ora..ctor(SettingXML setting, DB_Setting dB_Connection_setting) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\DB_Ora.cs:строка 32
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 70
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+18.02.2021 14:25:02 [MainApp]*********************************************
+18.02.2021 14:25:02 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:25:02 [MainApp]*********************************************
+18.02.2021 14:25:02 [MainApp]Setting.xml load is OK!
+18.02.2021 14:25:02 [MainApp]Init APP
+18.02.2021 14:25:02 [MainApp]- - - - - -
+18.02.2021 14:25:03 [MainApp]ORA_PARAM Load OK!
+18.02.2021 14:25:51 [MainApp]*********************************************
+18.02.2021 14:25:51 [MainApp]********   APPLICATION START   **************
+18.02.2021 14:25:51 [MainApp]*********************************************
+18.02.2021 14:25:51 [MainApp]Setting.xml load is OK!
+18.02.2021 14:25:51 [MainApp]Init APP
+18.02.2021 14:25:51 [MainApp]- - - - - -
+18.02.2021 14:25:51 [MainApp]ORA_PARAM Load OK!
+18.02.2021 14:25:53 [MainApp]ORA Connection Open
+18.02.2021 14:25:53 [MainApp]SQL answer :
+[
+
+18.02.2021 14:25:53 [MainApp]SQL answer :
+[Connection ok
+]
+
+
+18.02.2021 14:25:53 [MainApp]ORA Connection close
+18.02.2021 14:25:53 [MainApp]Connection to Database_Ora well done
+18.02.2021 14:25:53 [MainApp]- - - - - -
+18.02.2021 14:25:53 [MainApp]MSSQL_PARAM Load OK!
+18.02.2021 14:25:54 [MainApp]MSSQL Connection Open
+18.02.2021 14:25:54 [MainApp]SQL answer :
+[
+
+18.02.2021 14:25:54 [MainApp]SQL answer :
+[448040
+]
+
+
+18.02.2021 14:25:54 [MainApp]MSSQL Connection close
+18.02.2021 14:25:54 [MainApp]Connection to Database_Ora well done

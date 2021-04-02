@@ -1,0 +1,179 @@
+01.03.2021 16:49:07 [MainApp]*********************************************
+01.03.2021 16:49:07 [MainApp]********   APPLICATION START   **************
+01.03.2021 16:49:08 [MainApp]*********************************************
+01.03.2021 16:49:08 [MainApp]Setting.xml load is OK!
+01.03.2021 16:49:08 [MainApp]Init APP
+01.03.2021 16:49:08 [MainApp]- - - - - -
+01.03.2021 16:49:08 [MainApp]ORA_PARAM Load OK!
+01.03.2021 16:49:10 [MainApp]ORA Connection Open
+01.03.2021 16:49:10 [MainApp]SQL answer :
+[
+
+01.03.2021 16:49:10 [MainApp]SQL answer :
+[Connection ok
+]
+
+
+01.03.2021 16:49:11 [MainApp]ORA Connection close
+01.03.2021 16:49:11 [MainApp]Connection to Database_Ora well done
+01.03.2021 16:49:11 [MainApp]- - - - - -
+01.03.2021 16:49:11 [MainApp]MSSQL_PARAM Load OK!
+01.03.2021 16:49:11 [MainApp]MSSQL Connection Open
+01.03.2021 16:49:11 [MainApp]SQL answer :
+[
+
+01.03.2021 16:49:11 [MainApp]SQL answer :
+[523735
+]
+
+
+01.03.2021 16:49:11 [MainApp]MSSQL Connection close
+01.03.2021 16:49:11 [MainApp]Connection to Database_Ora well done
+01.03.2021 16:49:11 [MainApp]- - - - - -
+01.03.2021 16:49:11 [MainApp]Объект десериализован
+01.03.2021 18:07:15 [MainApp]*********************************************
+01.03.2021 18:07:15 [MainApp]********   APPLICATION START   **************
+01.03.2021 18:07:15 [MainApp]*********************************************
+01.03.2021 18:07:15 [MainApp]Setting.xml load is OK!
+01.03.2021 18:07:15 [MainApp]Init APP
+01.03.2021 18:07:16 [MainApp]- - - - - -
+01.03.2021 18:07:16 [MainApp]ORA_PARAM Load OK!
+01.03.2021 18:07:17 [MainApp]ORA Connection Open
+01.03.2021 18:07:17 [MainApp]SQL answer :
+[
+
+01.03.2021 18:07:17 [MainApp]SQL answer :
+[Connection ok
+]
+
+
+01.03.2021 18:07:17 [MainApp]ORA Connection close
+01.03.2021 18:07:17 [MainApp]Connection to Database_Ora well done
+01.03.2021 18:07:17 [MainApp]- - - - - -
+01.03.2021 18:07:17 [MainApp]MSSQL_PARAM Load OK!
+01.03.2021 18:07:18 [MainApp]MSSQL Connection Open
+01.03.2021 18:07:18 [MainApp]SQL answer :
+[
+
+01.03.2021 18:07:18 [MainApp]SQL answer :
+[524206
+]
+
+
+01.03.2021 18:07:18 [MainApp]MSSQL Connection close
+01.03.2021 18:07:18 [MainApp]Connection to Database_Ora well done
+01.03.2021 18:07:18 [MainApp]- - - - - -
+01.03.2021 18:07:18 [MainApp]Объект десериализован
+01.03.2021 18:07:22 [MainApp]Объект сериализован
+01.03.2021 18:07:22 [MainApp]All system init, starting App_main process
+01.03.2021 18:07:22 [MainApp]Read next VEH_ID[102]	LAST_DATE[16.02.2021 13:47:07]
+01.03.2021 18:07:22 [MainApp]Read next VEH_ID[132]	LAST_DATE[16.02.2021 6:57:31]
+01.03.2021 18:07:22 [MainApp]Read next VEH_ID[142]	LAST_DATE[16.02.2021 6:09:48]
+01.03.2021 18:07:23 [MainApp]Объект сериализован
+01.03.2021 18:07:23 [MainApp]Program process is live
+01.03.2021 18:07:28 [MainApp]Read next VEH_ID[102]	LAST_DATE[16.02.2021 13:47:07]
+01.03.2021 18:07:28 [MainApp]Read next VEH_ID[132]	LAST_DATE[16.02.2021 6:57:31]
+01.03.2021 18:07:28 [MainApp]Read next VEH_ID[142]	LAST_DATE[16.02.2021 6:09:48]
+01.03.2021 18:07:29 [MainApp]Объект сериализован
+01.03.2021 18:07:29 [MainApp]Program process is live
+01.03.2021 18:10:22 [MainApp]*********************************************
+01.03.2021 18:10:23 [MainApp]********   APPLICATION START   **************
+01.03.2021 18:10:23 [MainApp]*********************************************
+01.03.2021 18:10:23 [MainApp]Setting.xml load is OK!
+01.03.2021 18:10:23 [MainApp]Init APP
+01.03.2021 18:10:23 [MainApp]- - - - - -
+01.03.2021 18:10:23 [MainApp]ORA_PARAM Load OK!
+01.03.2021 18:10:24 [MainApp]ORA Connection Open
+01.03.2021 18:10:25 [MainApp]SQL answer :
+[
+
+01.03.2021 18:10:25 [MainApp]SQL answer :
+[Connection ok
+]
+
+
+01.03.2021 18:10:25 [MainApp]ORA Connection close
+01.03.2021 18:10:25 [MainApp]Connection to Database_Ora well done
+01.03.2021 18:10:25 [MainApp]- - - - - -
+01.03.2021 18:10:25 [MainApp]MSSQL_PARAM Load OK!
+01.03.2021 18:10:25 [MainApp]MSSQL Connection Open
+01.03.2021 18:10:25 [MainApp]SQL answer :
+[
+
+01.03.2021 18:10:25 [MainApp]SQL answer :
+[524227
+]
+
+
+01.03.2021 18:10:25 [MainApp]MSSQL Connection close
+01.03.2021 18:10:25 [MainApp]Connection to Database_Ora well done
+01.03.2021 18:10:25 [MainApp]- - - - - -
+01.03.2021 18:10:26 [MainApp]Объект десериализован
+01.03.2021 18:10:30 [MainApp]Объект сериализован
+01.03.2021 18:10:30 [MainApp]All system init, starting App_main process
+01.03.2021 18:10:30 [MainApp]Read next VEH_ID[102]	LAST_DATE[16.02.2021 13:47:07]
+01.03.2021 18:10:30 [MainApp]Read next VEH_ID[132]	LAST_DATE[16.02.2021 6:57:31]
+01.03.2021 18:10:30 [MainApp]Read next VEH_ID[142]	LAST_DATE[16.02.2021 6:09:48]
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:41:45 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:41:34 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:41:24 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:41:12 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:41:02 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:40:50 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:40:46 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:40:35 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:40:22 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:40:11 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:40:01 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:39:49 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:39:45 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:12:11 [MainApp]	 1/1/2021 6:39:34 AM	 132	 0	 26	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:13:03 [MainApp]	 1/1/2021 4:50:34 AM	 142	 0	 	 0	 0	 0READ_ORA -_-_-
+
+01.03.2021 18:13:52 [MainApp]*********************************************
+01.03.2021 18:13:52 [MainApp]********   APPLICATION START   **************
+01.03.2021 18:13:52 [MainApp]*********************************************
+01.03.2021 18:13:52 [MainApp]Setting.xml load is OK!
+01.03.2021 18:13:52 [MainApp]Init APP
+01.03.2021 18:13:52 [MainApp]- - - - - -
+01.03.2021 18:13:52 [MainApp]ORA_PARAM Load OK!
+01.03.2021 18:13:54 [MainApp]ORA Connection Open
+01.03.2021 18:13:54 [MainApp]SQL answer :
+[
+
+01.03.2021 18:13:54 [MainApp]SQL answer :
+[Connection ok
+]
+
+
+01.03.2021 18:13:54 [MainApp]ORA Connection close
+01.03.2021 18:13:54 [MainApp]Connection to Database_Ora well done
+01.03.2021 18:13:54 [MainApp]- - - - - -
+01.03.2021 18:13:54 [MainApp]MSSQL_PARAM Load OK!
+01.03.2021 18:13:54 [MainApp]MSSQL Connection Open
+01.03.2021 18:13:54 [MainApp]SQL answer :
+[
+
+01.03.2021 18:13:54 [MainApp]SQL answer :
+[524252
+]
+
+
+01.03.2021 18:13:55 [MainApp]MSSQL Connection close
+01.03.2021 18:13:55 [MainApp]Connection to Database_Ora well done
+01.03.2021 18:13:55 [MainApp]- - - - - -
+01.03.2021 18:13:55 [MainApp]Объект десериализован

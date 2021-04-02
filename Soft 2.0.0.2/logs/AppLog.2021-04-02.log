@@ -1,0 +1,189 @@
+02.04.2021 16:25:40 [MainApp]*********************************************
+02.04.2021 16:25:40 [MainApp]********   APPLICATION START   **************
+02.04.2021 16:25:40 [MainApp]*********************************************
+02.04.2021 16:25:40 [MainApp]Setting.xml load is OK!
+02.04.2021 16:25:40 [MainApp]Init APP
+02.04.2021 16:25:40 [MainApp]- - - - - -
+02.04.2021 16:25:41 [MainApp]ORA_PARAM Load OK!
+02.04.2021 16:25:43 [MainApp]ORA Connection Open
+02.04.2021 16:25:43 [MainApp]SQL answer :
+[
+
+02.04.2021 16:25:43 [MainApp]SQL answer :
+[Connection ok
+]
+
+
+02.04.2021 16:25:44 [MainApp]ORA Connection close
+02.04.2021 16:25:44 [MainApp]Connection to Database_Ora well done
+02.04.2021 16:25:44 [MainApp]- - - - - -
+02.04.2021 16:25:44 [MainApp]MSSQL_PARAM Load OK!
+02.04.2021 16:25:44 [MainApp]MSSQL Connection Open
+02.04.2021 16:25:44 [MainApp]SQL answer :
+[
+
+02.04.2021 16:25:44 [MainApp]SQL answer :
+[713755
+]
+
+
+02.04.2021 16:25:44 [MainApp]MSSQL Connection close
+02.04.2021 16:25:44 [MainApp]Connection to Database_Ora well done
+02.04.2021 16:25:44 [MainApp]- - - - - -
+02.04.2021 16:26:51 [MainApp]Создан новый объект VEHID[102] 	 LAST_DATETIME 02.04.2021 16:26:31
+02.04.2021 16:27:36 [MainApp]Фаил Properties\Tankers_last_date.xmlсломан, взгляни на него и попробой разобраться что не так
+02.04.2021 16:28:21 [MainApp]Объект сериализован
+02.04.2021 16:33:02 [MainApp]*********************************************
+02.04.2021 16:33:03 [MainApp]********   APPLICATION START   **************
+02.04.2021 16:33:03 [MainApp]*********************************************
+02.04.2021 16:33:03 [MainApp]Setting.xml load is OK!
+02.04.2021 16:33:03 [MainApp]Init APP
+02.04.2021 16:33:03 [MainApp]- - - - - -
+02.04.2021 16:33:03 [MainApp]ORA_PARAM Load OK!
+02.04.2021 16:33:04 [MainApp]ORA Connection Open
+02.04.2021 16:33:05 [MainApp]SQL answer :
+[
+
+02.04.2021 16:33:05 [MainApp]SQL answer :
+[Connection ok
+]
+
+
+02.04.2021 16:33:05 [MainApp]ORA Connection close
+02.04.2021 16:33:05 [MainApp]Connection to Database_Ora well done
+02.04.2021 16:33:05 [MainApp]- - - - - -
+02.04.2021 16:33:05 [MainApp]MSSQL_PARAM Load OK!
+02.04.2021 16:33:05 [MainApp]MSSQL Connection Open
+02.04.2021 16:33:05 [MainApp]SQL answer :
+[
+
+02.04.2021 16:33:05 [MainApp]SQL answer :
+[713800
+]
+
+
+02.04.2021 16:33:06 [MainApp]MSSQL Connection close
+02.04.2021 16:33:06 [MainApp]Connection to Database_Ora well done
+02.04.2021 16:33:06 [MainApp]- - - - - -
+02.04.2021 16:33:16 [MainApp]App catch:Not object inProperties\Tankers_last_date.xml
+   в Ora_To_MSSQL_UGOK.App_export.Load_tanker_date() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 127
+   в Ora_To_MSSQL_UGOK.App_export.Init() в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\User_App.cs:строка 76
+   в Ora_To_MSSQL_UGOK.Program.Main(String[] args) в D:\Document\С#\0.Main_Dev\Ora_To_MySQL_UGOK_2.0.0.1\Ora_To_MySQL_UGOK_2.0.0.1\Program.cs:строка 24
+
+02.04.2021 16:34:50 [MainApp]*********************************************
+02.04.2021 16:34:50 [MainApp]********   APPLICATION START   **************
+02.04.2021 16:34:51 [MainApp]*********************************************
+02.04.2021 16:34:51 [MainApp]Setting.xml load is OK!
+02.04.2021 16:34:51 [MainApp]Init APP
+02.04.2021 16:34:51 [MainApp]- - - - - -
+02.04.2021 16:34:51 [MainApp]ORA_PARAM Load OK!
+02.04.2021 16:34:53 [MainApp]ORA Connection Open
+02.04.2021 16:34:53 [MainApp]SQL answer :
+[
+
+02.04.2021 16:34:53 [MainApp]SQL answer :
+[Connection ok
+]
+
+
+02.04.2021 16:34:53 [MainApp]ORA Connection close
+02.04.2021 16:34:53 [MainApp]Connection to Database_Ora well done
+02.04.2021 16:34:53 [MainApp]- - - - - -
+02.04.2021 16:34:53 [MainApp]MSSQL_PARAM Load OK!
+02.04.2021 16:34:53 [MainApp]MSSQL Connection Open
+02.04.2021 16:34:53 [MainApp]SQL answer :
+[
+
+02.04.2021 16:34:53 [MainApp]SQL answer :
+[713811
+]
+
+
+02.04.2021 16:34:54 [MainApp]MSSQL Connection close
+02.04.2021 16:34:54 [MainApp]Connection to Database_Ora well done
+02.04.2021 16:34:54 [MainApp]- - - - - -
+02.04.2021 16:34:56 [MainApp]Создан новый объект VEHID[102] 	 LAST_DATETIME 02.04.2021 16:34:56
+02.04.2021 16:34:56 [MainApp]Создан новый объект VEHID[132] 	 LAST_DATETIME 02.04.2021 16:34:56
+02.04.2021 16:34:56 [MainApp]Создан новый объект VEHID[142] 	 LAST_DATETIME 02.04.2021 16:34:56
+02.04.2021 16:34:56 [MainApp]Создан новый объект VEHID[102] 	 LAST_DATETIME 02.04.2021 11:54:42
+02.04.2021 16:34:56 [MainApp]Создан новый объект VEHID[132] 	 LAST_DATETIME 02.04.2021 13:34:40
+02.04.2021 16:34:57 [MainApp]Создан новый объект VEHID[142] 	 LAST_DATETIME 02.04.2021 11:25:03
+02.04.2021 16:34:57 [MainApp]All system init, starting App_main process
+02.04.2021 16:34:57 [MainApp]Read next VEH_ID[102]	LAST_DATE[02.04.2021 11:54:42]
+02.04.2021 16:34:57 [MainApp]Read next VEH_ID[132]	LAST_DATE[02.04.2021 13:34:40]
+02.04.2021 16:34:57 [MainApp]Read next VEH_ID[142]	LAST_DATE[02.04.2021 11:25:03]
+02.04.2021 16:34:58 [MainApp]Объект сериализован
+02.04.2021 16:34:58 [MainApp]Program process is live
+02.04.2021 16:36:33 [MainApp]*********************************************
+02.04.2021 16:36:33 [MainApp]********   APPLICATION START   **************
+02.04.2021 16:36:33 [MainApp]*********************************************
+02.04.2021 16:36:33 [MainApp]Setting.xml load is OK!
+02.04.2021 16:36:33 [MainApp]Init APP
+02.04.2021 16:36:33 [MainApp]- - - - - -
+02.04.2021 16:36:33 [MainApp]ORA_PARAM Load OK!
+02.04.2021 16:36:35 [MainApp]ORA Connection Open
+02.04.2021 16:36:35 [MainApp]SQL answer :
+[
+
+02.04.2021 16:36:35 [MainApp]SQL answer :
+[Connection ok
+]
+
+
+02.04.2021 16:36:36 [MainApp]ORA Connection close
+02.04.2021 16:36:36 [MainApp]Connection to Database_Ora well done
+02.04.2021 16:36:36 [MainApp]- - - - - -
+02.04.2021 16:36:36 [MainApp]MSSQL_PARAM Load OK!
+02.04.2021 16:36:36 [MainApp]MSSQL Connection Open
+02.04.2021 16:36:36 [MainApp]SQL answer :
+[
+
+02.04.2021 16:36:36 [MainApp]SQL answer :
+[713821
+]
+
+
+02.04.2021 16:36:36 [MainApp]MSSQL Connection close
+02.04.2021 16:36:36 [MainApp]Connection to Database_Ora well done
+02.04.2021 16:36:36 [MainApp]- - - - - -
+02.04.2021 16:36:58 [MainApp]Создан новый объект VEHID[102] 	 LAST_DATETIME 02.04.2021 16:36:58
+02.04.2021 16:36:58 [MainApp]Создан новый объект VEHID[132] 	 LAST_DATETIME 02.04.2021 16:36:58
+02.04.2021 16:36:58 [MainApp]Создан новый объект VEHID[142] 	 LAST_DATETIME 02.04.2021 16:36:58
+02.04.2021 16:56:40 [MainApp]*********************************************
+02.04.2021 16:56:40 [MainApp]********   APPLICATION START   **************
+02.04.2021 16:56:40 [MainApp]*********************************************
+02.04.2021 16:56:40 [MainApp]Setting.xml load is OK!
+02.04.2021 16:56:40 [MainApp]Init APP
+02.04.2021 16:56:40 [MainApp]- - - - - -
+02.04.2021 16:56:40 [MainApp]ORA_PARAM Load OK!
+02.04.2021 16:56:42 [MainApp]ORA Connection Open
+02.04.2021 16:56:42 [MainApp]SQL answer :
+[
+
+02.04.2021 16:56:42 [MainApp]SQL answer :
+[Connection ok
+]
+
+
+02.04.2021 16:56:43 [MainApp]ORA Connection close
+02.04.2021 16:56:43 [MainApp]Connection to Database_Ora well done
+02.04.2021 16:56:43 [MainApp]- - - - - -
+02.04.2021 16:56:43 [MainApp]MSSQL_PARAM Load OK!
+02.04.2021 16:56:43 [MainApp]MSSQL Connection Open
+02.04.2021 16:56:43 [MainApp]SQL answer :
+[
+
+02.04.2021 16:56:43 [MainApp]SQL answer :
+[713941
+]
+
+
+02.04.2021 16:56:43 [MainApp]MSSQL Connection close
+02.04.2021 16:56:43 [MainApp]Connection to Database_Ora well done
+02.04.2021 16:56:43 [MainApp]- - - - - -
+02.04.2021 16:56:52 [MainApp]Создан новый объект VEHID[102] 	 LAST_DATETIME 02.04.2021 16:56:52
+02.04.2021 16:56:52 [MainApp]Создан новый объект VEHID[132] 	 LAST_DATETIME 02.04.2021 16:56:52
+02.04.2021 16:56:52 [MainApp]Создан новый объект VEHID[142] 	 LAST_DATETIME 02.04.2021 16:56:52
+02.04.2021 16:56:52 [MainApp]Создан новый объект VEHID[102] 	 LAST_DATETIME 02.04.2021 11:54:42
+02.04.2021 16:56:53 [MainApp]Создан новый объект VEHID[132] 	 LAST_DATETIME 02.04.2021 13:56:40
+02.04.2021 16:56:53 [MainApp]Создан новый объект VEHID[142] 	 LAST_DATETIME 02.04.2021 11:25:03
